@@ -1,0 +1,5 @@
+Abbe,lösen1,konto1/100,konto6/500
+Babbe,lösen2,konto2/400
+Cabbe,lösen3,konto3/300
+Dabbe,lösen4,konto4/200
+Eabbe,lösen5,konto5/0
